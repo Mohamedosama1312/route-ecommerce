@@ -54,7 +54,7 @@ FreshCart is a feature-rich, high-performance e-commerce application built with 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sahermohamed979/ecommerce.git
+   git clone https://github.com/Mohamedosama1312/route-ecommerce
    cd ecommerce
    ```
 
@@ -83,12 +83,4 @@ FreshCart is a feature-rich, high-performance e-commerce application built with 
 - `src/providers/`: Context providers (QueryClient, Auth).
 - `src/utils/`: Helper functions and shared utilities.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Developed with ❤️ by [Saher Mohamed](https://github.com/sahermohamed979)
